@@ -9,5 +9,6 @@
 - The Transverse
 - Cafe de la Femme
 - Gaymers
+- LGBTQ+ Hive.
 
 ### **More to come!**
