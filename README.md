@@ -10,5 +10,6 @@
 - Cafe de la Femme
 - Gaymers
 - LGBTQ+ Hive.
+- Gay and Comfy
 
 ### **More to come!**
