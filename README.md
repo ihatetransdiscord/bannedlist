@@ -11,5 +11,6 @@
 - Gaymers
 - LGBTQ+ Hive.
 - Gay and Comfy
+- LGBTQIA+ Safe Zone
 
 ### **More to come!**
