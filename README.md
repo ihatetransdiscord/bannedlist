@@ -1,4 +1,5 @@
 # Servers im banned from
+## 16 Total
 - Transpeak
 - Trans Community Center
 - Transplace
@@ -12,5 +13,8 @@
 - LGBTQ+ Hive.
 - Gay and Comfy
 - LGBTQIA+ Safe Zone
+- TransCord
+- Transitional Space
+- Spectrum
 
 ### **More to come!**
