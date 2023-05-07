@@ -1,5 +1,5 @@
 # Servers im banned from
-## 16 Total
+## 17 Total
 - Transpeak
 - Trans Community Center
 - Transplace
@@ -16,5 +16,6 @@
 - TransCord
 - Transitional Space
 - Spectrum
+- Nanos Nook
 
 ### **More to come!**
