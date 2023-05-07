@@ -1,5 +1,5 @@
 # Servers im banned from
-## 17 Total
+## **18** Total
 - Transpeak
 - Trans Community Center
 - Transplace
