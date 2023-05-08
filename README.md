@@ -1,4 +1,5 @@
-![trans x](https://user-images.githubusercontent.com/132633171/236716025-8833ce1c-e809-4654-a859-0d83619ae0d5.png)
+![trans fire](https://user-images.githubusercontent.com/132633171/236716104-3f9021ab-298d-499a-a507-4589bd375eab.png)
+
 # Servers im banned from!
 ## **19** Total
 - Transpeak
