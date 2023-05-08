@@ -1,5 +1,5 @@
-# Servers im banned from! [trans x](https://user-images.githubusercontent.com/132633171/236715924-af51b1b0-ccf5-4b05-a4d0-d237782d1ac3.png)
-
+![trans x](https://user-images.githubusercontent.com/132633171/236716025-8833ce1c-e809-4654-a859-0d83619ae0d5.png)
+# Servers im banned from!
 ## **19** Total
 - Transpeak
 - Trans Community Center
