@@ -1,7 +1,7 @@
 ![trans fire](https://user-images.githubusercontent.com/132633171/236716104-3f9021ab-298d-499a-a507-4589bd375eab.png)
 
 # Servers im banned from!
-## **19** Total
+## **20** Total
 - Transpeak
 - Trans Community Center
 - Transplace
@@ -21,5 +21,6 @@
 - Nanos Nook
 - Cisn'ts
 - The Bicyclists
+- Gay all Day
 
 ### **More to come!**
