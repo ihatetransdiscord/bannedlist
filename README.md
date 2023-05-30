@@ -22,5 +22,6 @@
 - Cisn'ts
 - The Bicyclists
 - Gay all Day
+- Jaycord
 
 ### **More to come!**
